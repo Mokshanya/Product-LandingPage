@@ -8,7 +8,7 @@ This project is a landing page for the Samsung Galaxy Watch. This is one of the 
 
 ## Live Demo
 
-View the full web page here: [Product Landing Page](https://quintin-dev.github.io/Projects-Product_Landing_Page/)
+View the full web page here: [Product Landing Page](https://mokshanya.github.io/Product-LandingPage/)
 
 ![Product Landing Page](Assets/preview.png)
 
@@ -45,6 +45,5 @@ Contribute to this project in the following ways:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
-6. Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 Don't forget to give the project a star! ⭐
